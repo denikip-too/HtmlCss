@@ -1,0 +1,47 @@
+html{
+    min-height: 100%;
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+body{
+    border: 2px solid darkgreen;
+    text-align: center;
+}
+h1{
+    color: darkred;
+    background-color: yellowgreen;
+    padding: 15px;
+    margin: 10px;
+}
+
+
+p{
+    font-family: Tahoma;
+    font-size: 25px;
+    color: lawngreen;
+
+
+}
+h2{
+    color: darkred;
+    background-color: yellowgreen;
+    margin: 10px;
+    paddind: 15px;
+}
+nav{
+    padding: 20px;
+    margin: 20px;
+    background-color: black;
+    color: chartreuse;
+    font-size: 50px;
+    text-align: right;
+    opacity: 80%;
+    border: 5px solid mediumvioletred;
+}
+ul, li{
+    color: #1a0202;
+    font-size: 25px;
+    alignment: center;
+}
